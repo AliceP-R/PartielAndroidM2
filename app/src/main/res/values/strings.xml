@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PartielM2</string>
+    <string name="effacer">Effacer</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="title_activity_ajout">Ajout</string>
+    <string name="textview">TextView</string>
+</resources>
